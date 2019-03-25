@@ -1,7 +1,7 @@
 
 ![Screen Shot 2019-03-24 at 11 15 08 PM](https://user-images.githubusercontent.com/42306913/54898771-b1fb4a80-4e8a-11e9-8ca7-e3a585f98295.png)
 
-## [Heroku Link] ( https://vast-island-96641.herokuapp.com)
+## [Heroku Link](https://vast-island-96641.herokuapp.com)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
